@@ -144,7 +144,15 @@ main {
   .card__bottom {
     width: 50%;
   }
+  .card__bottom h2 {
+    margin-bottom: 20px;
+  }
   .card__bottom h1 {
     font-size: 35px;
+    line-height: 35px;
+    margin-bottom: 20px;
+  }
+  .card__price {
+    margin: 15px 0;
   }
 }

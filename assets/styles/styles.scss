@@ -166,9 +166,19 @@ main {
         &__bottom {
             width: 50%;
 
+            h2 {
+                margin-bottom: 20px;
+            }
+
             h1 {
                 font-size: 35px;
+                line-height: 35px;
+                margin-bottom: 20px;
             }
+        }
+        &__price{
+            margin: 15px 0;
+            
         }
     }
 }
